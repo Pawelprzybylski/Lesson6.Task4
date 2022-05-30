@@ -1,5 +1,5 @@
 public class Main {
-    public static boolean ageVerification(int a) {
+    public static boolean ageVerify(int a) {
         return a >= 18;
     }
 
